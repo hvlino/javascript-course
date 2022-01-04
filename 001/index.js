@@ -1,1 +1,1 @@
-alert("Hello World")
+const idade = 37;
