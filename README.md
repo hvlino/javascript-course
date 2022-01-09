@@ -7,19 +7,19 @@ I, Wendell Navarro, will now learn javascript
 - Variables  `done`
 - Operators `done`
 - If-else `done`
-- Switch-case 
-- While/loop 
+- Switch-case
+- While/loop
 - For/loop
-- Functions 
-- Numbers/Math 
-- Strings 
-- Arrays 
-- Objects 
+- Functions
+- Numbers/Math
+- Strings
+- Arrays
+- Objects
 - Date
-- Regex 
+- Regex
 - Class (OOP)
-- DOM 
+- DOM
 - Form validation
-- Callback functions 
+- Callback functions
 - Promises
 - AJAX
