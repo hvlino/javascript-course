@@ -6,8 +6,8 @@ I, Wendell Navarro, will now learn javascript
 - Syntax  `done`
 - Variables  `done`
 - Operators `done`
-- If-else 
-- Switch-case
+- If-else `done`
+- Switch-case 
 - While/loop 
 - For/loop
 - Functions 
