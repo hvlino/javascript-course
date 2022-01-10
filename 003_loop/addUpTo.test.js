@@ -23,10 +23,11 @@
     }
     return sum;
 }
-console.log(addUpTo(3));
-console.log(addUpTo(7));
-console.log(addUpTo(89898));
 
+test('addUpTo', () => {
+    expect(addUpTo(10)).toBe(25);
+    expect(addUpTo(3)).toBe(4);
+});
 
 // Dado num, dividir n vezes por 10 até num ser menor que 1
 
