@@ -8,12 +8,12 @@ I, Wendell Navarro, will now learn javascript
 - Operators `done`
 - If-else `done`
 - Switch-case
-- While/loop
-- For/loop
+- While/loop `done`
+- For/loop `done`
 - Functions
 - Numbers/Math
 - Strings
-- Arrays
+- Arrays `done`
 - Objects
 - Date
 - Regex
