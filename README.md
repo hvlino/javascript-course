@@ -10,16 +10,13 @@ I, Wendell Navarro, will now learn javascript
 - Switch-case
 - While/loop `done`
 - For/loop `done`
-- Functions
-- Numbers/Math
-- Strings
+- Functions `done`
+- Numbers/Math `done`
+- Strings `done`
 - Arrays `done`
-- Objects
-- Date
+- Objects `done`
 - Regex
+- Callback functions `done`
 - Class (OOP)
-- DOM
-- Form validation
-- Callback functions
+- Date
 - Promises
-- AJAX
